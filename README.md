@@ -38,7 +38,7 @@ Ensure the following are installed:
 
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/aljazarifoundation/SeleniumJavaUsingBDD.git
    cd <repo-folder>
    ```
 2. Install dependencies:
@@ -78,4 +78,11 @@ Modify `environment.properties` inside `target/allure-results/` to set test envi
 - Ensure **Java & Maven paths** are correctly set in system environment variables.
 
 For further assistance, refer to the official documentation of **Selenium, Cucumber, TestNG, and Allure**.
+
+---
+
+## Video
+
+https://github.com/user-attachments/assets/8994abe9-75a9-43e3-838f-0af492dc4e35
+
 
