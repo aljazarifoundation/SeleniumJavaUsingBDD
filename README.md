@@ -77,7 +77,7 @@ Modify `environment.properties` inside `target/allure-results/` to set test envi
 - If **Allure results are outside **``, check `pom.xml` allure plugin configuration.
 - Ensure **Java & Maven paths** are correctly set in system environment variables.
 
-For further assistance, refer to the official documentation of **Selenium, Cucumber, TestNG, and Allure**.
+For further assistance, refer : https://qaautomation.expert/2024/01/15/allure-report-with-cucumber-and-selenium-testng/.
 
 ---
 
